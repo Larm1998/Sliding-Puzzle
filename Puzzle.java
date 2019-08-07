@@ -1,3 +1,5 @@
+//AUTHOR Luis Rangel
+
 import javax.swing.*;
 import java.awt.Font;
 import java.awt.event.*;
